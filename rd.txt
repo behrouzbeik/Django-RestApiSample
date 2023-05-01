@@ -1,0 +1,6 @@
+PostMan
+python 3.11.0
+django
+djangorestframework
+dbbrowser
+
